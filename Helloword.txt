@@ -1,3 +1,6 @@
 Hello word meu primeiro arquivo versionado no git.
 
-Inserindo segunda linha
+Inserindo segunda linha.
+
+
+Inserindo os comandos.
